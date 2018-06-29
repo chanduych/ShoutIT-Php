@@ -23,17 +23,7 @@ $shouts = mysqli_query($con ,$quary)
 				 <span>Time - chandu - Hi this is a  big shout </span>
 				
 				</li>	
-				
-
 				<?php endwhile; ?>
-					
-
-
-				
-
-				
-				
-				
 			</ul>
 			
 		</div>
